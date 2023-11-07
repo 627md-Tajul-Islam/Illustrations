@@ -1,0 +1,13 @@
+young-male
+young-female
+male-adult
+female-adult
+child-group-male-female
+female-child
+male-child
+male-senior
+female-senior
+group-female
+group-male
+adult-group-male-female
+senior-group-male-female
