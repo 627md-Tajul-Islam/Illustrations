@@ -1,8 +1,6 @@
-For Marketing Manager wanted
 For Frontend Developer wanted
 For Backend Developer wanted
 Internship Opportunity
-Account Manager wanted
 
 advertisement-project-manager-male
 advertisement-project-manager-female
@@ -25,3 +23,12 @@ advertisement-graphics-designer-group
 advertisement-video-editor-male
 advertisement-video-editor-female
 advertisement-video-editor-group
+
+advertisement-marketing-manager-male
+advertisement-marketing-manager-female
+advertisement-marketing-manager-group
+
+advertisement-account-manager-male
+advertisement-account-manager-female
+advertisement-account-manager-group
+
