@@ -1,0 +1,69 @@
+products-hardware-desktop-computer
+products-hardware-laptops
+products-hardware-servers
+
+
+
+
+
+
+
+
+#Hardware:
+Networking Equipment
+Storage Devices
+Printers and Scanners
+Mobile Devices
+
+
+#Software:
+Operating Systems 
+Productivity Software 
+Antivirus and Security Software
+Database Management Systems 
+Development Tools and IDEs
+Custom Software Development
+Business Applications (ERP, CRM, HRM)
+Virtualization Software (VMware, Hyper-V)
+Cloud Services (IaaS, PaaS, SaaS)
+
+
+#Networking and Infrastructure:
+Network Design and Implementation
+Data Center Services
+Cloud Computing Services (AWS, Azure, Google Cloud)
+Network Security Solutions (Firewalls, VPNs)
+Wireless Networking Solutions
+Network Monitoring and Management Tools
+
+
+#Cybersecurity:
+Security Software (firewalls, antivirus, anti-malware)
+Security Auditing and Consultation
+Intrusion Detection and Prevention Systems
+Data Encryption Solutions
+Security Awareness Training
+Incident Response and Recovery Services
+
+
+#Managed IT Services:
+IT Support and Help-desk Services
+Remote Monitoring and Management (RMM)
+Backup and Disaster Recovery Services
+Managed Network and Security Services
+IT Infrastructure Management
+
+
+#Web and Mobile Development:
+Website Design and Development
+Mobile App Development (iOS, Android)
+E-commerce Solutions
+Content Management Systems (CMS)
+Web Hosting and Domain Registration
+
+
+#Data Analytics and Business Intelligence:
+Data Warehousing
+Business Intelligence Tools (Tableau, Power BI)
+Data Analytics and Reporting Services
+Predictive Analytics Solutions
