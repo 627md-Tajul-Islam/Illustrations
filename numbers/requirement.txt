@@ -6,6 +6,4 @@ numbers-round-thin
 numbers-square-thin
 numbers-square
 number-thin
-
-
-#2f2e41
+number-small-bold
