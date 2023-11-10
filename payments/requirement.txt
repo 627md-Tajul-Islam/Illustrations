@@ -1,11 +1,23 @@
-Online Payment
-1. E-Commerce Transactions - Images of shopping carts, digital wallets.
-2. Mobile Payments - Graphics of smartphones with payment symbols, like NFC (Near Field Communication).
-3. Subscription Services - Icons depicting recurring billing, calendars with checkmarks.
-4. Digital Invoices - Abstract representations of digital invoices or bills.
-5. Cryptocurrency Transactions - Bitcoin, Ethereum, and other cryptocurrency symbols.
-6. Payment Gateways - Images of gateways or bridges symbolizing connection between buyer and seller.
-7. Peer-to-Peer (P2P) Transfers - Graphics showing two people or entities exchanging currency.
+payments-online-e-commerce-transactions
+payments-online-e-commerce-transactions-wallet
+payments-online-mobile-pay
+payments-online-subscription-service
+payments-online-digital-invoices
+payments-online-cryptocurrency-transactions-bitcoin
+payments-online-cryptocurrency-transactions-ethereum
+payments-online-cryptocurrency
+payments-online-gateways-connection-between-buyer-and-seller
+
+
+payments-online-peer-to-peer
+
+
+#2f2e41
+
+
+
+
+
 8. Contactless Payments - Icons with a hand waving over a payment terminal.
 9. Cross-Border Payments - Imagery with globe and currency exchange symbols.
 10. Payment Security - Lock icons, shields, or digital fingerprints.
