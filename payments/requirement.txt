@@ -7,53 +7,37 @@ payments-online-cryptocurrency-transactions-bitcoin
 payments-online-cryptocurrency-transactions-ethereum
 payments-online-cryptocurrency
 payments-online-gateways-connection-between-buyer-and-seller
-
-
 payments-online-peer-to-peer
-
-
-#2f2e41
-
-
-
-
-
-8. Contactless Payments - Icons with a hand waving over a payment terminal.
-9. Cross-Border Payments - Imagery with globe and currency exchange symbols.
-10. Payment Security - Lock icons, shields, or digital fingerprints.
-
-Offline Payment
-1. Cash Transactions - Abstract images of cash, coins.
-2. Check Payments - Stylized checks or pens writing on paper.
-3. Point of Sale (POS) Systems - Icons of card machines and registers.
-4. Bank Transfers - Images of banks, wire transfer symbols.
-5. ATM Withdrawals - ATMs or cards being inserted into a machine.
-6. Money Orders - Stylized versions of money order slips.
-7. Vouchers - Graphics resembling gift certificates or coupons.
-8. Retail Payments - Shopping bags, storefronts.
-9. Manual Card Entry - Old-fashioned credit card imprinters.
-10. Prepaid Cards - Images of cards with a "prepaid" tag.
-
-Payment Providers
-1. Banks - Icons of bank buildings, branded bank cards.
-2. Credit Card Companies - Stylized credit cards, company logos.
-3. Digital Wallets - Smartphone graphics with wallet apps.
-4. Payment Processors - Abstract networks or data flow graphics.
-5. Payment Service Providers (PSPs) - Symbols of service, like handshakes or gears.
-6. Direct Debit Providers - Icons indicating recurring payment from bank accounts.
-7. Blockchain Platforms - Chain or block graphics, network imagery.
-8. Fintech Startups - Modern, sleek technology symbols.
-9. Merchant Account Providers - Graphics of storefronts with payment symbols.
-10. Point of Sale Hardware Providers - Images of POS terminals and hardware.
-
-Payment Process
-1. Authorization - Lock and key images, "approved" stamps.
-2. Authentication - Biometric icons like fingerprints or facial recognition.
-3. Clearing - Abstract imagery of hurdles being removed or cleared pathways.
-4. Settlement - Balancing scales, handshake graphics.
-5. Dispute Resolution - Gavel, scales of justice.
-6. Refunds - Arrows pointing backwards, money-back symbols.
-7. Transaction Processing - Flowcharts, processing symbols.
-8. Compliance Checking - Checkmarks, compliance badges.
-9. Fraud Prevention - Detective icons, magnifying glasses.
-10. Reporting and Analytics - Graphs, pie charts.
+payments-online-contactless
+payments-online-cross-border-payments
+payments-online-security
+payments-offline-cash-transactions
+payments-offline-check
+payments-offline-point-of-sale
+payments-offline-bank-transfers
+payments-offline-atm-withdrawals
+payments-offline-money-orders
+payments-offline-vouchers
+payments-offline-retail
+payments-offline-manual-card-entry
+payments-offline-manual-prepaid-card
+payments-providers-banks
+payments-providers-credit-cards
+payments-providers-digital-wallets
+payments-providers-payment-processors
+payments-providers-payment-service-providers
+payments-providers-direct-debit-providers
+payments-providers-blockchain-platforms
+payments-providers-fin-tech-startups
+payments-providers-merchant-account-providers
+payments-providers-pos-hardware
+payment-process-authorization
+payment-process-authentication
+payment-process-clearing
+payment-process-settlement
+payment-process-dispute-resolution
+payment-process-refunds
+payment-process-transaction-processing
+payment-process-fraud-prevention-detective
+payment-process-reporting-and-analytics
+payment-process-compliance-checking
