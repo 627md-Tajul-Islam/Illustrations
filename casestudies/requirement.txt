@@ -1,14 +1,16 @@
-Case Studies
-
-Case studies would typically be represented by images that illustrate success, analysis, or study. For these, abstract graphics might include:
-
-1. Before and After Scenarios - Split graphics showing transformation.
-2. Growth Metrics - Rising arrows, bar graphs.
-3. Problem-Solving - Light bulbs, puzzle pieces.
-4. Customer Testimonials - Quote bubbles, star ratings.
-5. Business Challenges - Obstacle graphics, walls being climbed.
-6. Strategy and Implementation - Chess pieces, roadmaps.
-7. Financial Analysis - Dollar signs, calculators.
-8. Market Research - Magnifying glasses over graphs and charts.
-9. Success Stories - Trophy or medal imagery.
-10. Learning and Development - Open books, graduation caps.
+case-studies-transformation
+case-studies-growth-rising-arrows
+case-studies-growth-bar-graphs
+case-studies-problem-solving-light-bulbs
+case-studies-problem-solving-puzzle
+case-studies-customer-testimonials-quote
+case-studies-customer-star-rating
+case-studies-challenges-obstacle
+case-studies-strategy-plans
+case-studies-strategy-targets
+case-studies-financial-analysis-dollar-signs
+case-studies-financial-analysis-calculators
+case-studies-market-research-graphs-and-charts
+case-studies-success-stories-trophy
+case-studies-learning-and-development-books
+case-studies-learning-and-development-graduation

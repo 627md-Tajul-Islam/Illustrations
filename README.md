@@ -9,3 +9,7 @@ Sources:
 4/ https://www.drawkit.com/
 
 5/ https://iconscout.com/
+
+6/ https://storyset.com/
+
+7/ https://www.freepik.com/
